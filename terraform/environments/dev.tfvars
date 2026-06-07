@@ -6,9 +6,5 @@ s3_buckets = [
   {
     key  = "mlops-course-ehb-data-sn"
     tags = {}
-  },
- {
-    key  = "mlops-course-ehb-data-snnew"
-    tags = {}
   }
 ]
